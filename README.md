@@ -1,5 +1,7 @@
 # _Google Chrome Dino game Cheats/Hacks_
 * Press **CTRL+Shift+I** OR _Right Click & Select **Inspect** && open Console_
+* ![screenshot](./img/screenshot.png =720)
+* <img src="./img/screenshot.png" alt="drawing" width="720"/>
 * Use commands below to cheat
 
 ## Speed
