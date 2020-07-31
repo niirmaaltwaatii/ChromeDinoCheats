@@ -4,7 +4,7 @@
 Runner.instance_.setSpeed(100) /* Set Speed to 100*/
 
 ## Immortality
-var original = Runner.prototype.gameOver /* Save orignal gameOver function */
+var original = Runner.prototype.gameOver /* Save orignal gameOver function */ <br/>
 Runner.prototype.gameOver = function(){} /* make it do nothing when gameOver */
 
 ## Stop Game Immortality
