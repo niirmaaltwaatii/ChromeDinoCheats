@@ -16,8 +16,8 @@
 **Runner.prototype.gameOver = original** (Set gameOver to default)
 
 ## Current score
-**_Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT_**
+**Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT**
 (set currentScore to 12345)
 
 ## Jump Velocity
-**_Runner.instance_.tRex.setJumpVelocity(30)_** (set JumpVelocity to 30)
+**Runner.instance_.tRex.setJumpVelocity(30)** (set JumpVelocity to 30)
