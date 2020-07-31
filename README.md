@@ -1,3 +1,8 @@
+## _How to play Dino Game on chrome_
+* _Type **Chrome://dino** in URL bar & press Enter_
+* Press Spacebar to start game
+* Use up & down(_space_) keys
+
 # _Google Chrome Dino game Cheats/Hacks_
 
 ## Speed
