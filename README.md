@@ -1,5 +1,5 @@
 # _Google Chrome Dino game Cheats/Hacks_
-* Press **CTRL+Shift+I** OR _Right Click & Select **Inspect**_
+* Press **CTRL+Shift+I** OR _Right Click & Select **Inspect** && open Console_
 * Use commands below to cheat
 
 ## Speed
