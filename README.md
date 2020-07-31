@@ -1,9 +1,6 @@
-## _How to play Dino Game on chrome_
-* _Type **Chrome://dino** in URL bar & press Enter_
-* Press Spacebar to start game
-* Use up & down(_space_) keys
-
 # _Google Chrome Dino game Cheats/Hacks_
+* Press **CTRL+Shift+I** OR _Right Click & Select **Inspect**_
+* Use commands below to cheat
 
 ## Speed
 **_Runner.instance_.setSpeed(100)_** (Set Speed to 100)
@@ -21,3 +18,8 @@
 
 ## Jump Velocity
 **Runner.instance_.tRex.setJumpVelocity(30)** (set JumpVelocity to 30)
+
+## _How to play Dino Game on chrome_ ?
+* _Type **Chrome://dino** in URL bar & press Enter_
+* Press Spacebar to start game
+* Use up & down(_space_) keys
