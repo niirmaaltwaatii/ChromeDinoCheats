@@ -5,7 +5,7 @@
 * Use commands below to cheat
 
 ## Speed
-**_Runner.instance_.setSpeed(100)_** (Set Speed to 100)
+**Runner.instance_.setSpeed(100)** (Set Speed to 100)
 
 ## Immortality
 **var original = Runner.prototype.gameOver** (Save orignal gameOver function) <br/>
